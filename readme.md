@@ -44,7 +44,7 @@ This project demonstrates how to use **Mongoose relationships** in a simple Node
 ## 🧪 API Endpoints
 
 ### ➕ Add Student
-`POST /students`
+`POST /student`
 ```json
 {
   "name": "Raees Mughal",
